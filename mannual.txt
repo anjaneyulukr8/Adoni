@@ -1,0 +1,67 @@
+Agil : moving is samrtr way, implementing 
+1> here we closely interact with cunsteomers.
+2> her will to learn customer requirments  or needs its gives 
+  clear understanding ot his expectations
+Agile have idfferent methodologies 
+     1> Scrum  (95% PEOPLE WILL BE USED IT )
+     2> kANBANN
+     aGILE MANAGEMT TOOLS:
+   1> Rally  (Ca Technlogies)
+   2> Jira (it has trailer versionlow cost)
+   3> TFS (micresft ,trailer version..low cast)
+  
+
+    SCRUM: EX Total  20 Iterations >>>>>>>>>>>>>>>>>Sprint 
+	   perInteration 3 Modules>>>>>>>          USER Stories
+	   tTodotla Modle s:60 days>>>>>>>>
+           Iteration Duration 2 weeks>>>>>spritn duration
+	  Tottal Iteration duration 40 weeks >>>>
+  Scrum: 
+*Development product shuldbe diveded into smalle parts
+* Each part is in ready to 
+
+
+User stories 456>>
+Us >> xyz                      >>>>Scrum Master
+us >> 123                         *Take care about this team 
+us >> check			  *Remove miss communication bwtween teams
+				  * Protects his team	
+				  * implements Agile in effective manner
+				  *Can't be technical
+				   
+         Who is the Owner for user stories     
+				Srum Methodolgies 				Product Owners
+				------------------				-------------
+				 *Product Backlog			*deiven the US and priortize thm
+				 * Srpint Backlog/ sprint plannign	* sprint duration (noraml 1-4 weeks)
+				 * Scrum eeting/daily standup call	* cab be client
+				 * Demos/ reviews Meeting		*Take care about project
+		 		 *Retraspectiv meetings			 timelines
+
+  SCRUM Team:
+
+  DEV     	QA
+				1>SPRINT PLANNIG:               2>USER POINTS
+  Johan 1	DEO  -2 	----------------    	        -------------          
+  Bharath-2	Nader -2	>Usr stories assignments.       1,2,3,5,8,13..Poker Card Method
+  Hansi 2	Hari-2		 >user points asinment to US
+  Gouse-2	MUkunda-1
+  Victori-2	Vamsi-2
+  
+
+
+
+Product >>>backlog
+__________________
+>Product Owner>>>>Roles and respansibility Define ths user sotriers and prioritieges
+  Srpint Duration>>>>>>>>>>>1  to 4 Weeks(General in interview tell like this way  2 weeks)
+ 
+>Can be client
+>Take care about project timeline
+
+Product backlog:
+* It contains all User sotires implents for all the srpints
+* 
+
+
+
